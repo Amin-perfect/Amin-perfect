@@ -1,5 +1,5 @@
 <h1 align="center">Asslam o alaikum👋, I'm Amin Ahmed (Mr.PerfecT)</h1>
-<h3 align="center">Passionate About Data Science, AI Machine Learning</h3>
+<h3 align="center">Passionate About Data Science, AI & Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amin-perfect&label=Profile%20views&color=0e75b6&style=flat" alt="amin-perfect" /> </p>
 

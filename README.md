@@ -1,4 +1,4 @@
-<h1 align="center">Asslam o alaikum👋, I'm Amin Ahmed (Mr.PerfecT)</h1>
+<h1 align="center">Asslam-o-alaikum👋, I'm Amin (Mr.PerfecT)</h1>
 <h3 align="center">Passionate About Data Science, AI & Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amin-perfect&label=Profile%20views&color=0e75b6&style=flat" alt="amin-perfect" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrperfect26521" target="blank"><img src="https://img.shields.io/twitter/follow/mrperfect26521?logo=twitter&style=for-the-badge" alt="mrperfect26521" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital_management_system**
+- 🔭 I’m currently working on **personal portfolio**
 
 - 🌱 I’m currently learning **Data Science, Machine learning, Data Structures & Algorithms, Computer Architecture**
 
